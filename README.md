@@ -36,3 +36,7 @@ I'm curently a 3rd year Computer Science student at York University
 
 
 ---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luanarm&layout=compact)
+
+---
