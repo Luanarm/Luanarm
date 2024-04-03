@@ -32,11 +32,7 @@ I'm curently a 3rd year Computer Science student at York University
 ---
 
 ### :fire: My Stats :
-![Luana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luanarm&count_private=true&show_icons=true&theme=transparent)
+![Luana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luanarm&count_private=true&show_icons=true&theme=tokyonight)
 
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luanarm&layout=compact)
 
 ---
