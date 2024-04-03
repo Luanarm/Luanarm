@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 ### :woman_technologist: About Me :
 I'm curently a 3rd year Computer Science student at York University
-- :telescope: I’m working as an Ellehacks IT Executive
+- :telescope: I’m working as an Ellehacks IT Director
 - :seedling:  I’m currently learning Python and React.js
 
 ---
@@ -32,7 +32,7 @@ I'm curently a 3rd year Computer Science student at York University
 ---
 
 ### :fire: My Stats :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luanarm&count_private=true&show_icons=true&theme=transparent)
+![Luana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luanarm&count_private=true&show_icons=true&theme=transparent)
 
 
 ---
