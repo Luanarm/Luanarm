@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 ### :woman_technologist: About Me :
-I'm curently a 3rd year Computer Science student at York University
+I'm currently a 3rd year Computer Science student at York University
 - :telescope: I’m working as an Ellehacks IT Director
 - :seedling:  I’m currently learning Python and React.js
 
