@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 ### :woman_technologist: About Me :
 I'm currently a 3rd year Computer Science student at York University
 - :telescope: I’m working as a Technical Systems Analyst Intern @ RBC and IT Co-Chair @ Ellehacks 
-- :seedling:  I’m currently learning Python and React.js
+- :seedling:  I’m currently learning Middleware and Spring-boot
 
 ---
 
